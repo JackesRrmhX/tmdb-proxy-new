@@ -1,0 +1,12 @@
+{
+ "rewrites":[
+   {
+    "source":"/api/tmdb",
+    "destination":"/api/tmdb.js"
+   },
+   {
+    "source":"/api/image",
+    "destination":"/api/image.js"
+   }
+ ]
+}
